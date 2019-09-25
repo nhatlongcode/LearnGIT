@@ -46,4 +46,4 @@
 [//]: # (LINKS)
 [pac_chat]: https://github.com/uitchinhln/PacChat
 [preview_image]: https://github.com/nhatlongcode/LearnGIT/blob/dev/assets/preview.png "Preview of PacChat"
-[preview_image_url]: /assets/preview.png "preview image"
+[preview_image_url]: /assets/preview.png "Preview Image of PacChat"
