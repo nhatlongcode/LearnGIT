@@ -4,7 +4,7 @@
 
 [![Version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0)][pac_chat]
 
-![preview_image_url]
+![preview image](/assets/preview.png)
 
 ## Đối tượng sử dụng ##
 Ứng dụng phù hợp cho tất cả mọi người
